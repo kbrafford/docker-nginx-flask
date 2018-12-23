@@ -1,6 +1,6 @@
 # Dockerfile-flask
 
-# We simply inherit the Python 3 image. This image does
+# We simply inherit the Python 2 image. This image does
 # not particularly care what OS runs underneath
 FROM python:2
 
